@@ -5,7 +5,7 @@ function App() {
     <div>
       <div>
         <img src="" alt="" />
-        <h1>Suryadeep</h1>
+        <h1>Surya</h1>
         <marquee behavior="" direction="">Front End Developer</marquee>
         <div>
         <img src="https://img.icons8.com/ios-filled/50/FAB005/linkedin.png" alt="linkedin"/>
